@@ -1,4 +1,4 @@
-More information about this project:
+<h1> More information about this project: </h1>
 
 Revolution UC: https://revuc-viii.devpost.com/
 <br>
