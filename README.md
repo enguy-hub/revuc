@@ -1,4 +1,4 @@
-<h1> Refer to the following URLs for more information about this project: </h1>
+* This project was the winner of the "Best IoT Hack using a Qualcomm Device (MLH)" award at the RevolutionUC-VIII Hackathon.
 
 Revolution UC: https://revuc-viii.devpost.com/
 <br>
