@@ -1,4 +1,4 @@
-<h3> This was the winner of the "Best IoT Hack using a Qualcomm Device (MLH)" award at the RevolutionUC-VIII Hackathon. </h3>
+<h3> The winner of the "Best IoT Hack using a Qualcomm Device (MLH)" award at the RevolutionUC-VIII Hackathon. </h3>
 
 Revolution UC: https://revuc-viii.devpost.com/
 <br>
